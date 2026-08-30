@@ -5,8 +5,7 @@
 - [Quem sou eu?](#quem-sou-eu)
 - [Quais as minhas linguagens?](#quais-as-minhas-linguagens)
 - [Badges de Contato](#badges-de-contato)
-<br>
-<br>
+
 ## 🤔Quem sou eu?
 ### Me chamo Carlos Fernandes Fidalgo e sou estudante do 4º ano de Engenharia da Computação e Bacharel em TI. Iniciei nesse segundo semestre de 2026 o Curso Técnico de Desenvolvimento de Sistemas na Etec de Dracena. Atualmente trabalho na Polícia Civil do Estado de São Paulo.
 
