@@ -1,6 +1,7 @@
 # CARLOS FERNANDES FIDALGO
 
 ![READM](./Carlos.jpg)
+
 ## Índice
 - [Quem sou eu?](#quem-sou-eu)
 - [Quais as minhas linguagens?](#quais-as-minhas-linguagens)
