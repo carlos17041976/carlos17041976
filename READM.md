@@ -8,7 +8,7 @@
 - [Contato](#contato)
 
 ## 🤔Quem sou eu?
-### Me chamo Carlos Fernandes Fidalgo e sou estudante do 4º ano de Engenharia da Computação e Bacharel em TI. Iniciei nesse segundo semestre de 2026 o Curso Técnico de Desenvolvimento de Sistemas na Etec de Dracena. Há 17 anos trabalho na Polícia Civil do Estado de São Paulo junto a perícia criminal.
+### Chamo Carlos Fernandes Fidalgo e sou estudante do 4º ano de Engenharia da Computação e Bacharel em TI. Iniciei nesse segundo semestre de 2026 o Curso Técnico de Desenvolvimento de Sistemas na Etec de Dracena. Há 17 anos trabalho na Polícia Civil do Estado de São Paulo junto a perícia criminal.
 
 ## 💻Quais as minhas linguagens?
 ### Atualmente as linguagens de programação que tenho tido mais contato é o 🐍Python, 📰HTML, 3️⃣CSS e 🍵Java.
