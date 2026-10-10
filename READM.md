@@ -16,8 +16,8 @@
 ## 🔎Contato
 ### 📫Gmail: carlosfidalgo.pc@gmail.com
 ### 📱Instagram: @carlosfidalgo7
-### 👤Linkedin: Carlos Fernandes Fidalgo
-### 🐈‍⬛Github: carlos17041976
+### 👤Linkedin: https://www.linkedin.com/in/carlos-fernandes-fidalgo-98b03b259/?isSelfProfile=true
+### 🐈‍⬛Github: https://github.com/carlos17041976
 
 
 
